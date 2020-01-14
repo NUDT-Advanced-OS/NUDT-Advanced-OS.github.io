@@ -4,7 +4,7 @@ Several syllabis of operating system courses are collected and listed, including
 
 | University | Course | Time | Instructors |
 | ---------- | ------ | ---- | -------- |
-| NUDT | N.A. | 2020 Spring | Shanshan Li |
+| NUDT | [Advanced-OS](https://github.com/NUDT-Advanced-OS/NUDT-Advanced-OS.github.io/blob/master/material/NUDT-Advanced-OS-2020-spring/schedule.html) | 2020 Spring | Shanshan Li |
 | Berkeley | [CS-162](https://inst.eecs.berkeley.edu/~cs162/fa18/) | 2018 Fall | Ion Stoica |
 | Columbia | [W-4418](http://www.cs.columbia.edu/~nieh/teaching/w4118) | 2018 Fall | Jason Nieh |
 | Cornell | [CS-4410](http://www.cs.cornell.edu/courses/cs4410/2018fa/) | 2018 Fall | Robbert van Renesse |
